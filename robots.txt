@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ughieseeb.lekno.sk/sitemap.xml
